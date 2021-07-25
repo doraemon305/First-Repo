@@ -1,0 +1,29 @@
+body
+{
+    background-color: black;
+}
+
+@media (min-width: 768px)
+{
+    body
+    {
+        background-color: white;
+    }
+}
+
+@media (min-width: 1020px)
+{
+    body
+    {
+        background-color: crimson;
+    }
+}
+
+@media (min-width: 1400px)
+{
+    body
+    {
+        background-color: aquamarine;
+    }
+}
+

@@ -1,0 +1,103 @@
+body{
+    background-color: greenyellow;
+}
+
+h4
+{
+    background-color: grey;
+    width: 15%;
+    border: 2px dotted rebeccapurple;
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-style:italic;
+    font-weight: 900;
+    border-radius: 6px;
+
+}
+
+.para1
+{
+ background-color: burlywood;
+ color: crimson;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight:300;
+ font-style: oblique;
+ font-style: 20px;
+}
+
+.para2
+{
+ background-color: beige;
+ width: 200px;
+ height: 200px;
+ color: rgb(107, 37, 139);
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-weight:300;
+ font-weight: bold;
+ font-style: 10px;
+}
+
+.para3
+{
+    background-color: rgb(129, 10, 10);
+    color: rgb(32, 19, 150);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 120px;
+}
+
+.para4
+{
+ background-color: black;
+ color: rgb(20, 213, 220);
+ font-family:fantasy;
+ font-style: italic;
+ font-style: 25px;
+}
+
+.para5
+{
+ background-color: white;
+ color: crimson;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight:300;
+ font-style: oblique;
+ font-style: 20px;
+}
+
+input[type="text"]
+{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+input[type="email"]
+{
+    background-color:teal;
+    color:whitesmoke;
+    font-size: 20px;
+    border-radius: 6px;
+}
+
+
+input[type="password"]
+{
+    background-color: black;
+    color: whitesmoke;
+}
+
+th
+{
+    background-color: brown;
+    color:chartreuse;
+    border: 6px solid black;
+}
+
+td
+{
+    background-color:darkgreen;
+    color:whitesmoke;
+}
+
